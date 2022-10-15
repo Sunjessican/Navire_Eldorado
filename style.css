@@ -1,0 +1,23 @@
+body {
+  background-color: lightgoldenrodyellow;
+}
+section {
+  padding: 20px;
+}
+
+#welcome {
+  height: 300px;
+  background-image: url("src/Navire Eldorado.jpg");
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 54;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+}
